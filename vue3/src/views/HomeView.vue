@@ -1,11 +1,11 @@
 <template>
   <ContentBase>
-      首页
-  </ContentBase>
+    首页
+  </ContentBase> 
 </template>
 
 <script>
-import ContentBase from "../components/ContentBase.vue"
+import ContentBase from  '../components/ContentBase';
 
 export default {
   name: 'HomeView',
@@ -15,7 +15,5 @@ export default {
 }
 </script>
 
-
 <style scoped>
-  
 </style>
